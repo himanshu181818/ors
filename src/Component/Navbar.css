@@ -1,0 +1,142 @@
+
+.navbar{
+    color: black;
+    border-color: black;
+   
+}
+/* .navbar ul{
+    overflow: auto;
+} */
+.navbar li{
+float:left;
+list-style: none;
+margin: 13px 20px;
+}
+.navbar li a{
+
+    padding: 3px 3px;
+color:black;
+}
+.navbar li a:hover{
+background-color: rgb(12, 240, 248);
+   
+}
+.search{
+    float:right;
+    color:darkcyan;
+    padding:12px 75px;
+}
+.navbar input{
+    border: 2px solid black;
+    border-radius: 14px;
+    padding: 3px 17px;
+}
+.container{
+    position: fixed;
+    left: 32%;
+    right: 50%;
+    top: 25%;
+    border: solid;
+    box-shadow:10px 10px rgb(47, 18, 90);
+    margin-top: 1px;
+    margin: 2px 30px 10px;
+    padding: 10px 40px 10px;
+    padding-left: 10px 16px;
+    width: 500px;
+   
+    height: 400px;
+    height: fit-content;
+    background:linear-gradient(100deg,#58bedd,#5d3b94);
+}
+.containerrole{
+    position:fixed;
+    left: 28%;
+    right: 50%;
+    top: 25%;
+    border: solid;
+    box-shadow:10px 10px rgb(47, 18, 90);
+    margin: 10px 10px 10px;
+    padding: 10px 40px 10px;
+    padding-left: 10px 16px;
+    width: 600px;
+    height: 500px;
+    height: fit-content;
+    width: fit-content;
+    background:linear-gradient(100deg,#58bedd,#5d3b94);
+}
+.form-fill{
+    border:solid rgb(47, 18, 90);
+    border-width: 2px;
+    border-color: rgb(1, 58, 58);
+    margin: 10px 10px 10px;
+    padding: 10px 40px 10px;
+    box-shadow: 10px 10px rgb(47, 18, 90);
+    
+    color:black;
+    padding-left: 30px 76px;
+    position: fixed;
+    left: 32%;
+    right: 50%;
+    top: 25%;
+  width: 400px;
+  background:linear-gradient(100deg,#58bedd,#5d3b94);
+  
+}
+.empty{
+    color: red;
+}
+.t1{
+    float: left;
+}
+.container-fluid{
+    background-color: lightblue;
+}
+h4{
+    margin:0px  500px;
+}
+
+.detail-detail{
+    padding:100px 100px;
+    /* margin: center; */
+    border: solid;
+    border-color: black;
+    align-items: center;
+    left: 50%;
+    right: 50%;
+}
+
+.Auth-form{
+    height: 600px;
+    width: 300px;
+    left: 50%;
+    right: 50%;
+    
+}
+
+
+.B{
+    background-color: skyblue;
+}
+.center{
+    position: fixed;
+    left: 42%;
+    right: 50%;
+    top: 40%;
+  width: 400px;
+}
+
+.cancelbtn{
+    background-color:skyblue;
+    margin-left:"300px"
+    
+}
+.heading{
+top: 35%;
+margin: 0px 300px 500px; 
+padding: 0px 70px 80px;
+}
+.txt{
+    background-color:rgb(188, 229, 245);
+    border-inline-color: rgba(238, 49, 49, 0.767);
+    border-color: rgb(245, 94, 25);
+}
